@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "raygun-apm-rails"
+gem "raygun-apm"
