@@ -2,14 +2,13 @@ GEM
   remote: https://rubygems.org/
   specs:
     raygun-apm (1.0.78-universal-darwin)
-    raygun-apm (1.0.78-x86-linux)
     raygun-apm (1.0.78-x86_64-linux)
     raygun-apm-rails (1.0.57)
       raygun-apm (~> 1.0.53)
 
 PLATFORMS
   x86_64-darwin-19
-  x86_86-linux
+  x86_64-linux
 
 DEPENDENCIES
   raygun-apm-rails
